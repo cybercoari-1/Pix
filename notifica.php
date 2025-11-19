@@ -13,7 +13,7 @@ if (!isset($data['type'], $data['data']['id']) || $data['type'] !== 'payment') {
 }
 
 $payment_id = $data['data']['id'];
-$access_token = 'APP_AQUI';
+$access_token = 'TOKEN_AQUI';
 
 // Consulta os detalhes do pagamento
 $ch = curl_init();
