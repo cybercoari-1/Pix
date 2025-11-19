@@ -5,9 +5,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 // === Configurações ===
- $access_token = 'TEST-2330395156261137-070407-6fe939bae9e82ac77afea0561a52460a-2069289633';
-
- //$access_token = 'APP_USR-8723025888795325-061410-73aaaa2e348b2d5eecdb42f496db8c5f-2069289633';
+ $access_token = 'token_aqui';
 
 $valor = 0.01;
 $produto = "CYBER ATLAS";
