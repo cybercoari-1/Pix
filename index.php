@@ -4,10 +4,7 @@ require 'config/conexao.php';
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
-// === Configurações ===
-$access_token = 'TEST';
-
-//$access_token = 'TOKEN_AQUI';
+$access_token = 'TOKEN_AQUI';
 
 $valor = 0.01;
 $produto = "CYBER ATLAS";
